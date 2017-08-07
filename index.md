@@ -8,7 +8,7 @@ tl;dr: most substances seem to have no or only slight effects when rated subject
 
 **Age.** The mean participant age was 26.86 years (standard deviation = 9.68, range = 12-88). 
 
-**Gender.** From the total sample of 380 participants, 325 (91.07%) male and 29 (9.89%) female participants completed the survey. 19 did not answer and 7 chose the "other" option for gender. From those seven participants, three gave a valid response, while four answered "attack helicopter". Those three participants were either non-binary, trans-male or trans woman. The male-to-female ratio can be considered rather extreme even for Reddit standards, which was roughly 70/30 [in an analysis a couple of years ago](#)(https://www.reddit.com/r/dataisbeautiful/comments/1wtnkd/subreddit_gender_ratios_oc/) and can be compared to extremely male-dominated subreddits like /r/baseball or /r/Libertarian. 
+**Gender.** From the total sample of 380 participants, 325 (91.07%) male and 29 (9.89%) female participants completed the survey. 19 did not answer and 7 chose the "other" option for gender. From those seven participants, three gave a valid response, while four answered "attack helicopter". Those three participants were either non-binary, trans-male or trans woman. The male-to-female ratio can be considered rather extreme even for Reddit standards, which was roughly 70/30 [in an analysis a couple of years ago](https://www.reddit.com/r/dataisbeautiful/comments/1wtnkd/subreddit_gender_ratios_oc/) and can be compared to extremely male-dominated subreddits like /r/baseball or /r/Libertarian. 
 
 **Country of residence.** The vast majority of participants were from English speaking countries. The table lists the top 10 most frequent responses. Other countries included Switzerland (5 participants), France (3), Italy (3),  Netherlands (3), New Zealand (3), Portugal (3) and South Africa (3).
 
@@ -26,7 +26,7 @@ tl;dr: most substances seem to have no or only slight effects when rated subject
 
 # Personality Scores
 
-A brief personality inventory, [the Mini-IPIP](#)(http://ipip.ori.org/MiniIPIPKey.htm), was administered. It measures the Big Five personality traits: 
+A brief personality inventory, [the Mini-IPIP](http://ipip.ori.org/MiniIPIPKey.htm), was administered. It measures the Big Five personality traits: 
 
 * Extraversion: This trait includes characteristics such as excitability, sociability, talkativeness, assertiveness and high amounts of emotional expressiveness. High levels of this trait are associated with more friends, higher life satisfaction and lower rates of mental disorders. 
 

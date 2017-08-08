@@ -98,7 +98,7 @@ LSD, Tianeptine, Phenibut and Adderall seem to improve mood. Remarkably, LSD mic
 
 Participants asked for the dose in milligrams of the nootropics they have already taken. Most of them managed to answer in the required format. Minimum, average and maximum doses for all substances are listed in the table below.
 
-|Substance|Min|Median|Max|
+|Substance|Minimum dose in mg|Median dose in mg|Maximum dose in mg|
 |---|---|---|---|
 |L-Theanine|100|200|400|
 |Bacopa|200|300|500|

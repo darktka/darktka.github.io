@@ -1,5 +1,7 @@
 # 2017 Nootropics Survey on /r/Nootropics
 
+**Caution: this presentation of survey results is based completely on aggregated subjective experience. This survey was conducted for research and educational purposes only. It is strongly advised not to make decisions based on this data set. Before deciding to use any of these substances, consult a qualified medical professional and, if you suffer from any mental health problems, a mental health professional. The reported doses are likely to be inaccurate and it is highly recommended not to decide on the dose of a nootropic based on these data!**
+
 # Introduction
 
 tl;dr: most substances seem to have no or only slight effects when rated subjectively. Most substances with substantial effects were already well-known for their effects, some of them are prescription drugs or pharmaceuticals. 
